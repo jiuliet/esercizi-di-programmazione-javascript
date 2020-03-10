@@ -11,3 +11,12 @@
 
   http://www.imparareaprogrammare.it
 */
+
+
+var ac= 2020;
+var an= 1991;
+
+var eta = ac-an;
+
+console.log(eta);
+console.log(100 - eta);

@@ -17,3 +17,9 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var cats    = 22;
+var inlines = 4;
+
+console.log(Math.ceil(cats / inlines)); // file//
+console.log(cats % inlines); //gatti restanti//

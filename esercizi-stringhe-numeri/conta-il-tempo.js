@@ -12,3 +12,11 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var secondi = 36000;
+
+var min = secondi / 60;
+var ore = secondi /3600;
+var sec = secondi - (min+ore);
+
+console.log(ore + 'ore', min + 'minuti', sec + 'secondi');
