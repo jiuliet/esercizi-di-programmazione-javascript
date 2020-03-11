@@ -11,3 +11,5 @@
 
   http://www.imparareaprogrammare.it
 */
+var number = '999'
+console.log(number.length);

@@ -21,3 +21,22 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var scelta = 1;
+
+switch (scelta) {
+  case 1:
+  console.log( 'Hai scelto il Tiramisu');
+    break;
+  case 2:
+    console.log(' Hai scelto la Torta della nonna');
+    break;
+  case 3:
+    console.log(' Hai scelto la Cheesecake alla nutella');
+    break;
+  case 4:
+    console.log(' Hai scelto la Macedonia');
+    break;
+  default:
+  console.log('Dolce non disponibile');
+}
